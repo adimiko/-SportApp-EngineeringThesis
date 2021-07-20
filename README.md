@@ -1,5 +1,6 @@
 # SportApp-EngineeringThesis   
 The project is part of an engineering thesis written during WWSI studies.
+![System Layers](https://user-images.githubusercontent.com/53557466/126392888-fb865c12-7430-4653-ad5d-81f93d94c556.png)
 
 ## Technologies
 * ASP.NET Core 3.1
