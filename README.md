@@ -21,3 +21,7 @@ The project is part of an engineering thesis written during WWSI studies.
 ## Repositories
 * [Backend](https://github.com/adimiko/SportApp-EngineeringThesis.Backend)   
 * [Frontend](https://github.com/adimiko/SportApp-EngineeringThesis.Frontend)   
+
+## Backend Architecutre (Clean Architecture)  
+![Clean Architecture](https://user-images.githubusercontent.com/53557466/126390927-032e5084-a62a-4890-9517-402ace7fe940.png)
+
